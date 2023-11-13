@@ -3,7 +3,7 @@
 # Defines the details of the target database
 $host = "localhost";
 $username = "tomaselj";
-$password = "1168753";
+$password = "1234567";
 $dbname = "CPS3740";
 
 # Makes the connection with the target database
